@@ -1,6 +1,6 @@
 # Java_Logic_Practice
 
-1.Event And Odd.
+1.Event And Odd.<br>
 2.Find the Largest of Two numbers.
 3.Find the largest of THREE numbers.
 4.Check whether a number is POSITIVE, NEGATIVE, or ZERO.
