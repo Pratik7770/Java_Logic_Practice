@@ -10,3 +10,4 @@
 8.Check whether a number is a PALINDROME.<br>
 9.Count number of digits in a number.<br>
 10.Check whether a number is an ARMSTRONG number.<br>
+11.Find the factorial of a given number.
