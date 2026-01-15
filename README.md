@@ -10,5 +10,6 @@
 8.Check whether a number is a PALINDROME.<br>
 9.Count number of digits in a number.<br>
 10.Check whether a number is an ARMSTRONG number.<br>
-11.Find the factorial of a given number.
-12.Check whether a number is PRIME or NOT PRIME.
+11.Find the factorial of a given number.<br>
+12.Check whether a number is PRIME or NOT PRIME.<br>
+13.Print all prime numbers between 1 and 50.<br>
