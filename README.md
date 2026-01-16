@@ -13,3 +13,4 @@
 11.Find the factorial of a given number.<br>
 12.Check whether a number is PRIME or NOT PRIME.<br>
 13.Print all prime numbers between 1 and 50.<br>
+14.Print the Fibonacci series up to n terms.<br>
