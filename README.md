@@ -16,3 +16,4 @@
 14.Print the Fibonacci series up to n terms.<br>
 15.Check whether a number is a PERFECT number.<br>
 16.Check whether a number is a STRONG number.<br>
+17.*Patterns – Level 1.<br>
