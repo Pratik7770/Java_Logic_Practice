@@ -19,3 +19,4 @@
 17.*Patterns – Level 1.<br>
 18.(Number Pattern)Print pattern<br>
 19.(Reverse Star Pattern)<br>
+20.Right Triangle with spaces (Right aligned)<br>
