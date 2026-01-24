@@ -18,3 +18,4 @@
 16.Check whether a number is a STRONG number.<br>
 17.*Patterns – Level 1.<br>
 18.(Number Pattern)Print pattern<br>
+19.(Reverse Star Pattern)<br>
