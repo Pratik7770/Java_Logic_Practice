@@ -47,6 +47,7 @@
   <li>Number Pattern (Triangle)</li>
   <li>Reverse Star Pattern (Decreasing Triangle)</li>
   <li>Right Aligned Star Triangle</li>
+  <li>Print this pattern (Pyramid)</li>
 </ol>
 
 <hr>
