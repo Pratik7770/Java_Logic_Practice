@@ -49,6 +49,8 @@
   <li>Right Aligned Star Triangle</li>
   <li>Print this pattern (Pyramid)</li>
    <li>Inverted Pyramid</li>
+  <li>Diamond Pattern</li>
+
 </ol>
 
 <hr>
