@@ -51,6 +51,7 @@
    <li>Inverted Pyramid</li>
   <li>Diamond Pattern</li>
   <li>Hollow Pyramid</li>
+  <li>Hollow Diamond Pattern 💎</li>
 
 </ol>
 
