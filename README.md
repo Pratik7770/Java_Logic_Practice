@@ -52,6 +52,7 @@
   <li>Diamond Pattern</li>
   <li>Hollow Pyramid</li>
   <li>Hollow Diamond Pattern 💎</li>
+  <li>Hollow Square</li>
 
 </ol>
 
