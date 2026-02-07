@@ -54,6 +54,7 @@
   <li>Hollow Diamond Pattern 💎</li>
   <li>Hollow Square</li>
   <li>Hollow Rectangle</li>
+  <li>Butterfly Pattern</li>
 
 </ol>
 
